@@ -16,17 +16,24 @@ body {
     transform: translate(-50%, -50%);
 }
 
-h1 {
+.container h1 {
     font-size: 70px;
 }
 
-hr {
+.container hr {
     border: 0.5px solid lightgray;
     width: 50px;
     margin: 10px auto;
 }
 
-p {
+.container main p {
     font-size: 30px;
     font-weight: 200;
+}
+
+.container footer p {
+    font-size: 20px;
+    font-weight: 200;
+    color: #86868b;
+    margin-top: 20px;
 }
