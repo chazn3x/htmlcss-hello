@@ -1,0 +1,9 @@
+h1 {
+    font-family: Helvetica;
+    color: #1d1d1f;
+    font-size: 70px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
